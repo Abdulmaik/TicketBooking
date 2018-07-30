@@ -239,7 +239,10 @@ server.port=9090
 
 
 
-
+### use following username and password to login as an Admin or normal User
+username: abed1
+password: abed92
+#####################
 
 
 
